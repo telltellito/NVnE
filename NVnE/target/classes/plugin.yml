@@ -1,0 +1,9 @@
+name: NVnE
+version: '1.0-SNAPSHOT'
+main: me.telltellito.nVnE.NVnE
+api-version: '1.20'
+load: STARTUP
+commands:
+  shop:
+    description: Opens a custom menu
+    usage: /shop
